@@ -57,7 +57,7 @@ Sometimes we need to review what's in the production pipeline. We may want to re
 
 ### Create a Batch
 
-We need a way to create a Batch and pass those Orders to the production status. We should input the Purchase Channel e receive back the Reference of the created Batch along with the number of Orders that were included.
+We need a way to create a Batch and pass those Orders to the production status. We should input the Purchase Channel and receive back the Reference of the created Batch along with the number of Orders that were included.
 
 ### Produce a Batch
 
@@ -76,7 +76,7 @@ To have a general idea how things are going, it's important to have a simple fin
 There's so much that we can do to improve our platform, but time is a scarce resource and we need to launch it as soon as possible. Here are some suggestions of how we can improve our platform in the future:
 
 - A security layer, to prevent script kiddies from messing up our Orders and putting on *YouTube*.
-- A a permission layer, that way we can be sure that each user is only working with their stuff.
+- A permission layer, that way we can be sure that each user is only working with their stuff.
 - Sometimes people confuses Moto G5 with Moto G5S and we need a way to modify Orders in production.
 - A web UI to control everything directly, without the need of going thought the API.
 
